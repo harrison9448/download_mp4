@@ -1,0 +1,1 @@
+python -m nuitka --standalone --onefile --windows-console-mode=disable --enable-plugin=pyside6 --company-name=Harrison --copyright=Harrison --product-name=Download_MP4 --file-version=1.0 --windows-icon-from-ico=logo.ico dl_mp4.py
